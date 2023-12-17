@@ -16,8 +16,11 @@
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
+
 Software Engineer. I am motivated by the power of technology as a tool for positive change, with a background in Business, Finance, and Design.
-See [my website](https://www.youtube.com/watch?v=UpsonO_vBNk) for more information!
+
+See [my website](https://jacobdubbe.netlify.app/) for more information!
+
 
 <h1 align="center">Technologies</h1>
 <p align="center">
