@@ -1,4 +1,6 @@
 
+<img src="https://svgshare.com/i/11vF.svg" width="100%">
+
 <p align="center">
   <a href="https://jacobdubbe.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
